@@ -4,4 +4,4 @@ print(datetime.datetime.now())
 
 
 
-"release 分支dev"
+"開發 main 主支"
