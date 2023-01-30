@@ -4,6 +4,6 @@ print(datetime.datetime.now())
 
 
 
-"開發 main 主支2"
-"開發 main 主支3"
-"開發 main 主支4"
+"release 分支2"
+"release 分支3"
+"release 分支4"
